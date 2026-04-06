@@ -1,0 +1,35 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+externalNativeBuild/
+.cxx/
+local.properties
+
+# Log & Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Android Specific
+*.apk
+*.ap_
+*.dex
+bin/
+gen/
+
+# Kotlin / Java
+*.class
+/out
+
+# Gradle
+.gradle/
+build/
+
+# Keystore files
+*.jks
+*.keystore
+*.pk8
+*.p12

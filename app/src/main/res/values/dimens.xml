@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toolbar -->
+    <dimen name="toolbar_expanded_height">216dp</dimen>
+    <dimen name="toolbar_scrim_visible_height">174dp</dimen>
+    <dimen name="toolbar_expanded_title_margin">24dp</dimen>
+
+    <!-- Cards -->
+    <dimen name="card_radius">28dp</dimen>
+    <dimen name="card_margin_top">30dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="card_padding">11dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_extra_small">4dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+</resources>

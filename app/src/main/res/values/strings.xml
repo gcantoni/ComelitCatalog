@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comelit</string>
+    <string name="product_code_format">Code: %s</string>
+    <string name="unnamed_product">Prodotto senza nome</string>
+</resources>
